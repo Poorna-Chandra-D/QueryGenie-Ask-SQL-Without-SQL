@@ -24,6 +24,6 @@ Well… now you can!
 
 👀 Stay tuned for Day 2: I’ll show how vector databases + Hugging Face embeddings make it smarter with semantic understanding!
 
-#AI #LangChain #GooglePaLM #SQL #Streamlit #LLM #RetailTech #ChromaDB #NLP #DeveloperJourney
+#AI #LangChain #GooglePaLM #SQL #Streamlit #LLM #RetailTech #ChromaDB #NLP 
 
 ![image](https://github.com/user-attachments/assets/a64854b3-3049-4001-bda8-cd5e469e1b0d)
